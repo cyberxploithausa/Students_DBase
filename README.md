@@ -24,4 +24,6 @@ step 4. python3 std.py
 
 1. Python 3.7 +
 
+2. sqlite3 (pip install sqlite3)
+
 2. A working terminal/code editor
