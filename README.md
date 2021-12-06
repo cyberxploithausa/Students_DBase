@@ -9,13 +9,19 @@ the backup.txt file stands as a backup just incase something happened to the cod
 or app after compiled to an executable
 
 
-## How to use the app
-step 1. apt install git
+## How to use the app.
+
+step 1. apt install git.
+
 step 2. git clone https://github.com/cyberxploit/Students_DBase.git
+
 step 3. ls
+
 step 4. python3 std.py
 
 
 ### Requirements
+
 1. Python 3.7 +
+
 2. A working terminal/code editor
